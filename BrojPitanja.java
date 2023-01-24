@@ -14,15 +14,15 @@ public class BrojPitanja {
 		count++;
 
 	}
-  
+  	//return pitanja
 	public String getQuestion() {
 		return question;
 	}
-
+	//return odgovora
 	public String[] getAnswers() {
 		return answers;
 	}
-
+	//return tacnog odgovora
 	public String getCorrectAnswer() {
 		return correctAnswer;
 	}
