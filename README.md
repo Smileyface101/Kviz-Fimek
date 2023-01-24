@@ -1,4 +1,5 @@
 # Kviz-Fimek
+Autor Vojislav Beric SI-289-20 Fimek Projekat iz Java programskog jezika
 
 1.0 Instalacija
   
